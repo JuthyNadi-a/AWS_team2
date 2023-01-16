@@ -12,8 +12,8 @@ jobs:
         with:
           persist-credentials: false
 
-      #- name: Install 🔧
-       # run: npm install
+      - name: Install 🔧
+        run: npm install
 
       - name: Lint 🧐
         run: npm run lint
