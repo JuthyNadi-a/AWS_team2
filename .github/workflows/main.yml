@@ -17,9 +17,3 @@ jobs:
 
       - name: Another greeting
         run: echo "Hello, CI/CD again!"
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
