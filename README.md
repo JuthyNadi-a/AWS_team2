@@ -1,3 +1,6 @@
 # AWS CI/CD task
 
-# test push from Marina's clone
+- example of github actions
+- how CI/CD works
+
+- my changes (Marina)
